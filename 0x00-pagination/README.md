@@ -1,5 +1,3 @@
-Sure, here's a README without the code snippets.
-
 # 0x00. Pagination
 
 ## Description
